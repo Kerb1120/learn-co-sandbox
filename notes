@@ -1,0 +1,5 @@
+API
+APIs are really just way to get data from a database
+1. we dpnt direct access to a database because of sensitive data
+2. so connections to databases are sensitive
+3. backends are middlemen for frontend and db
